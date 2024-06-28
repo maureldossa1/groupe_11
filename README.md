@@ -1,5 +1,3 @@
-# groupe_11
-
 
 
 Programmation Avancée en Python et Introduction à R
